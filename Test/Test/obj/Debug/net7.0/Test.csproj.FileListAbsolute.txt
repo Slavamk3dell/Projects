@@ -13,3 +13,17 @@ D:\Soft\VisualStudio\Projects\Projects\Test\Test\obj\Debug\net7.0\refint\Test.dl
 D:\Soft\VisualStudio\Projects\Projects\Test\Test\obj\Debug\net7.0\Test.pdb
 D:\Soft\VisualStudio\Projects\Projects\Test\Test\obj\Debug\net7.0\Test.genruntimeconfig.cache
 D:\Soft\VisualStudio\Projects\Projects\Test\Test\obj\Debug\net7.0\ref\Test.dll
+D:\Soft\Visual Studio\Git_Projects\Test\Test\bin\Debug\net7.0\Test.exe
+D:\Soft\Visual Studio\Git_Projects\Test\Test\bin\Debug\net7.0\Test.deps.json
+D:\Soft\Visual Studio\Git_Projects\Test\Test\bin\Debug\net7.0\Test.runtimeconfig.json
+D:\Soft\Visual Studio\Git_Projects\Test\Test\bin\Debug\net7.0\Test.dll
+D:\Soft\Visual Studio\Git_Projects\Test\Test\bin\Debug\net7.0\Test.pdb
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.dll
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\refint\Test.dll
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.pdb
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\Test.genruntimeconfig.cache
+D:\Soft\Visual Studio\Git_Projects\Test\Test\obj\Debug\net7.0\ref\Test.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Soft\\VisualStudio\\Projects\\Projects\\Test\\Test\\Test.csproj": {}
+    "D:\\Soft\\Visual Studio\\Git_Projects\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\Soft\\VisualStudio\\Projects\\Projects\\Test\\Test\\Test.csproj": {
+    "D:\\Soft\\Visual Studio\\Git_Projects\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Soft\\VisualStudio\\Projects\\Projects\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\Soft\\Visual Studio\\Git_Projects\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\Soft\\VisualStudio\\Projects\\Projects\\Test\\Test\\Test.csproj",
+        "projectPath": "D:\\Soft\\Visual Studio\\Git_Projects\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\kopta\\.nuget\\packages\\",
-        "outputPath": "D:\\Soft\\VisualStudio\\Projects\\Projects\\Test\\Test\\obj\\",
+        "outputPath": "D:\\Soft\\Visual Studio\\Git_Projects\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Soft\\Visual Studio\\SDK\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\kopta\\AppData\\Roaming\\NuGet\\NuGet.Config",
