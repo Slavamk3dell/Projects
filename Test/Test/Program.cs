@@ -3,3 +3,4 @@ Console.Write("Введите имя: ");
 var name = Console.ReadLine();
 
 Console.WriteLine($"Привет, {name}!!!");
+// я откатился
